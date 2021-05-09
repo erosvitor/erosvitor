@@ -33,7 +33,7 @@ Aqui você encontrará diversos materiais que poderão ser usados livremente em 
 
 <h2>Outras referências</h2>
 <p>
-Você poderá obter mais informações sobre a minha trajetória profissional no Linkedin e também conhecer os resultados das minhas pesquisas, análises, estudos e experiências nas áreas da Química, Física, Matemática, Eletrônica e Computação no Medium. No Bitbucket você encontrará materiais específicos para criação de cursos sobre linguagens de programação e banco de dados.
+Você poderá obter mais informações sobre a minha trajetória profissional no Linkedin e também conhecer meus projetos relacionados a bancos de dados no Bitbucket.
 </p>
 <p>
   <a href="https://www.linkedin.com/in/erosvitor/" target="_blank">
