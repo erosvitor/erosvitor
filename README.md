@@ -27,6 +27,7 @@ Aqui você encontrará diversos materiais que poderão ser usados livremente em 
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-f80000?style=flat-square&logo=oracle&logoColor=white" />
   <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-59666c?style=flat-square&logo=hibernate&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-008000?style=flat-square&logo=spring&logoColor=white" />
 </p>
