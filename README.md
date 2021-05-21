@@ -1,4 +1,4 @@
-<h1>Seja muito bem-vindo ao meu Github!</h1>
+<h1>Seja muito bem-vindo ao meu GitHub!</h1>
 
 <p>
 Sou curitibano, casado, dois filhos, bacharel em Sistemas de Informação, técnico em Processamento de Dados, iniciei a carreira como operador de computador, depois suporte técnico, programação, analista de suporte, instrutor Linux, voltei para programação de computadores e paralelamente iniciei uma segunda carreira como professor de linguagens de programação.
