@@ -1,7 +1,9 @@
 <h1>Seja muito bem-vindo ao meu GitHub!</h1>
-
 <p>
-Sou curitibano, casado, dois filhos, bacharel em Sistemas de Informação, técnico em Processamento de Dados, iniciei a carreira como operador de computador, depois suporte técnico, programação, analista de suporte, instrutor Linux, voltei para programação de computadores e paralelamente iniciei uma segunda carreira como professor de linguagens de programação.
+Sou curitibano, casado, dois filhos, pós-graduando em Engenharia de Sistemas de Cloud Computing, graduado em Sistemas de Informação e técnico em Processamento de Dados.
+</p>
+<p>
+Iniciei minha carreira profissional como operador de computador, depois suporte técnico, programador, analista de suporte, instrutor Linux, voltei para programação de computadores e paralelamente iniciei uma segunda carreira como professor de linguagens de programação.
 </p>
 <p>
 Como programador/analista tive a oportunidade de atuar em diversas etapas do desenvolvimento de sistemas. Participei de reuniões para levantamento de requisitos, análise e projeto, documentação, codificação, instalação, treinamento e homologação.
@@ -13,8 +15,8 @@ Como instrutor/professor, preparei e ministrei vários cursos técnicos relacion
 Aqui você encontrará diversos materiais que poderão ser usados livremente em seus estudos e pesquisas, você poderá criar seus próprios projetos ou cursos com base no conteúdo aqui disponibilizado.
 </p>
 
-<h2>O que normalmente utilizo</h2>
-<p>As principais linguagens, frameworks e tecnologias que normalmente utilizo para escrever os materiais são:</p>
+<h2>O que utilizo no dia a dia</h2>
+<p>As principais linguagens, frameworks e tecnologias que utilizo para escrever os materiais são:</p>
 <p>
   <img alt="C" src="https://img.shields.io/badge/-C-0000FF" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-3b3bff" />
@@ -44,3 +46,10 @@ Você poderá obter mais informações sobre a minha trajetória profissional no
     <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-%230747A6.svg?&style=for-the-badge&logo=Bitbucket&logoColor=white" />
   </a>
 </p>
+
+<h2>Estatísticas GitHub</h2>
+<div align="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erosvitor&show_icons=true&hide_border=false&layout=compact&langs_count=8&theme=default"/>
+	
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=erosvitor&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=default" />
+</div>
