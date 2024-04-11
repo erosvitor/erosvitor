@@ -7,15 +7,15 @@ Meu nome é Eros Vitor Bornatowski, casado, dois filhos, pós-graduado em Cloud 
 Atuo como analista de sistemas, professor e mais recentemente, como recrutador técnico. Como analista de sistemas atuei em diversas etapas do desenvolvimento de sistemas. Como professor, preparei e ministrei diversos cursos técnicos relacionados a linguagens de programação e banco de dados. E como recrutador técnico contribuo na seleção de candidatos de nível júnior, pleno e sênior para vagas de desenvolvedor de software.
 </p>
 <p>
-Aqui você encontrará materiais, exemplos, exercícios e protótipos que utilizo no dia a dia como analista, professor e recrutador técnico.
+Aqui você encontrará os materiais que utilizo no dia a dia como analista, professor e recrutador.
 </p>
 <p>
-Sinta-se a vontade em copiar, clonar, alterar, utilizar os materiais para criar os seus próprios exemplos, exercícios, protótipos e cursos.
+Sinta-se a vontade em copiar, clonar, alterar, utilizar os materiais para criar os seus próprios exemplos, protótipos, exercícios e cursos.
 </p>
 
 <h2>Outras referências</h2>
 <p>
-Você pode obter mais informações sobre minha trajetória profissinal no Linkedin. Mais resultados sobre a pesquisa e estudo da eletrônica você encontra no meu Blog.
+Você pode obter mais informações sobre minha trajetória profissional no Linkedin. No meu Blog você encontrará resultados das pesquisas e estudos em eletrônica.
 </p>
 <p>
   <a href="https://www.linkedin.com/in/erosvitor/" target="_blank">
