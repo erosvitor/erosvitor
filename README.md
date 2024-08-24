@@ -1,7 +1,7 @@
-<h2>Seja muito bem vindo(a) ao meu bloco de anotações para assuntos relacionados ao desenvolvimento de softwares/sistemas</h2>
+<h2>Seja muito bem vindo(a) ao meu bloco de anotações para desenvolvimento de softwares/sistemas</h2>
 
 <p>
-Meu nome é Eros Vitor Bornatowski, casado, dois filhos, pós-graduado em Cloud Computing pela PUC-PR, graduado em Sistemas de Informação pela Faculdade SPEI e técnico em Processamento de Dados pelo Colégio Bagozzi.
+Curitibano, casado, dois filhos, pós-graduado em Cloud Computing pela PUC-PR, graduado em Sistemas de Informação pela Faculdade SPEI e técnico em Processamento de Dados pelo Colégio Bagozzi.
 </p>
 <p>
 Atuo como analista de sistemas, professor e recrutador técnico. Como analista de sistemas atuei em diversas etapas do desenvolvimento de sistemas. Como professor, preparei e ministrei diversos cursos técnicos relacionados a linguagens de programação e banco de dados. E como recrutador técnico contribuo na seleção de candidatos de nível júnior, pleno e sênior para vagas de desenvolvedor de software.
