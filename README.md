@@ -1,4 +1,4 @@
-<h2>Seja muito bem vindo(a) ao meu bloco de anotações para desenvolvimento de softwares/sistemas</h2>
+<h2>Seja muito bem vindo(a) ao meu bloco de notas para desenvolvimento de softwares</h2>
 
 <p>
 Curitibano, casado, dois filhos, pós-graduado em Cloud Computing pela PUC-PR, graduado em Sistemas de Informação pela Faculdade SPEI e técnico em Processamento de Dados pelo Colégio Bagozzi.
@@ -7,7 +7,7 @@ Curitibano, casado, dois filhos, pós-graduado em Cloud Computing pela PUC-PR, g
 Atuo como analista de sistemas, professor e recrutador técnico. Como analista de sistemas atuei em diversas etapas do desenvolvimento de sistemas. Como professor, preparei e ministrei diversos cursos técnicos relacionados a linguagens de programação e banco de dados. E como recrutador técnico contribuo na seleção de candidatos de nível júnior, pleno e sênior para vagas de desenvolvedor de software.
 </p>
 
-<h2>Desenvolvimento de softwares/sistemas</h2>
+<h2>Desenvolvimento de softwares</h2>
 
 <h3>Infraestrutura</h3>
 
