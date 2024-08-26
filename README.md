@@ -1,7 +1,7 @@
 <h2>Seja muito bem vindo(a) ao meu bloco de notas para desenvolvimento de softwares</h2>
 
 <p>
-Curitibano, casado, dois filhos, pós-graduado em Cloud Computing pela PUC-PR, graduado em Sistemas de Informação pela Faculdade SPEI e técnico em Processamento de Dados pelo Colégio Bagozzi.
+Sou curitibano, casado, dois filhos, pós-graduado em Cloud Computing pela PUC-PR, graduado em Sistemas de Informação pela Faculdade SPEI e técnico em Processamento de Dados pelo Colégio Bagozzi.
 </p>
 <p>
 Atuo como analista de sistemas, professor e recrutador técnico. Como analista de sistemas atuei em diversas etapas do desenvolvimento de sistemas. Como professor, preparei e ministrei diversos cursos técnicos relacionados a linguagens de programação e banco de dados. E como recrutador técnico contribuo na seleção de candidatos de nível júnior, pleno e sênior para vagas de desenvolvedor de software.
@@ -81,7 +81,7 @@ Atuo como analista de sistemas, professor e recrutador técnico. Como analista d
 
 - Testes integrados
   - Pirâmide de Testes
-  - WireMock, TestContainers
+  - WireMock, Testcontainers
 
 - Versionamento de código
   - Git, GitHub, GitLab, BitBucket
@@ -120,7 +120,7 @@ Atuo como analista de sistemas, professor e recrutador técnico. Como analista d
   - Circuit Breaker com Resilience4j
 
 - Mensageria
-  - Apacha Kafka
+  - Apache Kafka
   - RabbitMQ
 
 <h3>Design de Software</h3>
