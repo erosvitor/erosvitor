@@ -1,10 +1,10 @@
 <h2>Seja muito bem vindo(a) ao meu bloco de notas para desenvolvimento de softwares</h2>
 
 <p>
-Sou curitibano, casado, dois filhos, pós-graduado em Cloud Computing pela PUC-PR, graduado em Sistemas de Informação pela Faculdade SPEI e técnico em Processamento de Dados pelo Colégio Bagozzi.
+Sou Curitibano, casado, dois filhos, pós-graduado em Cloud Computing, graduado em Sistemas de Informação e técnico em Processamento de Dados.
 </p>
 <p>
-Atuo como analista de sistemas, professor e recrutador técnico. Como analista de sistemas atuei em diversas etapas do desenvolvimento de sistemas. Como professor, preparei e ministrei diversos cursos técnicos relacionados a linguagens de programação e banco de dados. E como recrutador técnico contribuo na seleção de candidatos de nível júnior, pleno e sênior para vagas de desenvolvedor de software.
+Atuo como desenvolvedor backend, professor e recrutador técnico. Como desenvolvedor backend atuei em diversas etapas do desenvolvimento de software. Como professor, preparei e ministrei diversos cursos técnicos relacionados a linguagens de programação e banco de dados. E como recrutador técnico contribuo na seleção de candidatos de nível júnior, pleno e sênior para vagas de desenvolvedor de software.
 </p>
 
 <h2>Desenvolvimento de softwares</h2>
@@ -83,13 +83,11 @@ Atuo como analista de sistemas, professor e recrutador técnico. Como analista d
   - Pirâmide de Testes
   - WireMock, Testcontainers
 
+- Testes end-to-end
+  - Robot Framework, Selenium
+
 - Versionamento de código
   - Git, GitHub, GitLab, BitBucket
-
-- Qualidade de código
-  - Clean Code
-  - Refatoração
-  - SonarQube
 
 <h3>Arquitetura de Software</h3>
 
@@ -130,7 +128,6 @@ Atuo como analista de sistemas, professor e recrutador técnico. Como analista d
 
 - Princípios de design
   - SOLID, YAGNI, KISS, DRY
-
  
 <h2>Outras referências</h2>
 <p>
