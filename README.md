@@ -1,13 +1,13 @@
-<h2>Seja muito bem vindo(a) ao meu bloco de notas para desenvolvimento de softwares</h2>
+<h2>Seja muito bem vindo(a) ao meu bloco de notas para desenvolvimento backend de softwares</h2>
 
 <p>
 Sou Curitibano, casado, dois filhos, pós-graduado em Cloud Computing, graduado em Sistemas de Informação e técnico em Processamento de Dados.
 </p>
 <p>
-Atuo como desenvolvedor backend, professor e recrutador técnico. Como desenvolvedor backend atuei em diversas etapas do desenvolvimento de software. Como professor, preparei e ministrei diversos cursos técnicos relacionados a linguagens de programação e banco de dados. E como recrutador técnico contribuo na seleção de candidatos de nível júnior, pleno e sênior para vagas de desenvolvedor de software.
+Atuo como desenvolvedor backend com foco em Cloud, Micro serviços e APIs utilizando Java, Kotlin e Python.
 </p>
 
-<h2>Desenvolvimento de softwares</h2>
+<h2>Desenvolvimento backend</h2>
 
 <h3>Infraestrutura</h3>
 
@@ -15,8 +15,8 @@ Atuo como desenvolvedor backend, professor e recrutador técnico. Como desenvolv
   - Arquitetura IBM-PC (Placa-mãe, Bios, CPU, BUS, RAM, FDD, HDD, CDROM, VIDEO, SOUND, MODEM)
     
 - Sistema operacional
-  - Monousuário (MS-DOS, Windows 3.11, Windows 9x)
-  - Multiusuário (Linux Debian e Ubuntu)
+  - Monousuário (MS-DOS, Windows 3.11 for Workgroups, Windows 9x)
+  - Multiusuário (Linux Debian, Ubuntu, Mint)
 
 - Rede computadores
   - Rede cabeada (Ethernet, Hub, Switch, Roteador)
@@ -26,16 +26,20 @@ Atuo como desenvolvedor backend, professor e recrutador técnico. Como desenvolv
 - Servidores
   - FTP (VSFTPD)
   - Web (Apache HTTPD e Nginx)
-  - Aplicação (Tomcat, Jetty e WildFly)
+  - Aplicação Java (Tomcat, Jetty, Netty, WildFly)
 
 - Virtualização
   - Nativa ou Baremetal (VMware)
   - Paravirtualização (VirtualBox, QEMU)
   - Vagrant
 
+- Versionamento de código
+  - CVS, SVN, GIT
+  - TortoiseSVN, GitHub, GitLab, BitBucket    
+
 - Containers e Orquestração
   - Docker, Docker Compose
-  - Docker Swarm e Kubernetes
+  - Docker Swarm, Kubernetes
 
 - Cloud
   - Privada com OpenStack
@@ -45,8 +49,8 @@ Atuo como desenvolvedor backend, professor e recrutador técnico. Como desenvolv
 
 - Relacional
   - Formas normais, Modelagem de Dados, Diagrama Entidade Relacionamento
-  - SQL, Triggers, Stored Procedures
-  - MySQL, PostgreSQL, Oracle e PL/SQL
+  - MySQL, PostgreSQL, Oracle
+  - SQL, PL/SQL, Triggers, Stored Procedures
 
 - Não-Relacional
   - Documento (MongoDB)
@@ -72,22 +76,24 @@ Atuo como desenvolvedor backend, professor e recrutador técnico. Como desenvolv
   - Expressões regulares
 
 - Persistência de dados
+  - Arquivo texto e binário
   - Java
     - ODBC, JPA, Hibernate, Spring Data JPA
 
+<h3>Testes automatizados</h3>
+
+- Testes
+  - Princípio FIRST, Pirâmide de testes, TDD, BDD
+
 - Testes unitários
-  - Princípio FIRST, Pirâmide de Testes
-  - JUnit 5, Mockito, Code Coverage, Jacoco, TDD, BDD
+  - Java
+    - JUnit 5, Mockito, Jacoco
 
 - Testes integrados
-  - Pirâmide de Testes
   - WireMock, Testcontainers
 
 - Testes end-to-end
   - Robot Framework, Selenium
-
-- Versionamento de código
-  - Git, GitHub, GitLab, BitBucket
 
 <h3>Arquitetura de Software</h3>
 
@@ -117,10 +123,6 @@ Atuo como desenvolvedor backend, professor e recrutador técnico. Como desenvolv
   - API Gateway
   - Circuit Breaker com Resilience4j
 
-- Mensageria
-  - Apache Kafka
-  - RabbitMQ
-
 <h3>Design de Software</h3>
 
 - Padrões de projeto
@@ -128,7 +130,13 @@ Atuo como desenvolvedor backend, professor e recrutador técnico. Como desenvolv
 
 - Princípios de design
   - SOLID, YAGNI, KISS, DRY
- 
+
+<h3>Integração de software</h3>
+
+ - Mensageria
+  - Apache Kafka
+  - RabbitMQ
+
 <h2>Outras referências</h2>
 <p>
 Você pode obter mais informações sobre minha trajetória profissional no Linkedin. No meu Blog você encontrará anotações do meu dia a dia em diversos assuntos.
