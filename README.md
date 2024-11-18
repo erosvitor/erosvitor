@@ -30,12 +30,7 @@ Atuo como desenvolvedor backend com foco em Cloud, Micro serviços e APIs utiliz
 
 - Virtualização
   - Nativa ou Baremetal (VMware)
-  - Paravirtualização (VirtualBox, QEMU)
-  - Vagrant
-
-- Versionamento de código
-  - CVS, SVN, GIT
-  - TortoiseSVN, GitHub, GitLab, BitBucket    
+  - Paravirtualização (VirtualBox, QEMU, Vagrant)
 
 - Containers e Orquestração
   - Docker, Docker Compose
@@ -44,6 +39,10 @@ Atuo como desenvolvedor backend com foco em Cloud, Micro serviços e APIs utiliz
 - Cloud
   - Privada com OpenStack
   - Pública com AWS
+
+- Versionamento de código
+  - CVS, SVN, GIT
+  - TortoiseSVN, GitHub, GitLab, BitBucket    
 
 <h3>Banco de dados</h3>
 
@@ -73,12 +72,12 @@ Atuo como desenvolvedor backend com foco em Cloud, Micro serviços e APIs utiliz
 - Técnicas de programação
   - Estruturas de dados (vetores, matrizes, filas, pilhas) 
   - Algoritmos (ordenação, busca, recursividade)
-  - Expressões regulares
 
 - Persistência de dados
   - Arquivo texto e binário
-  - Java
-    - ODBC, JPA, Hibernate, Spring Data JPA
+  - Banco de dados
+    - Java
+      - ODBC, JPA, Hibernate, Spring Data JPA
 
 <h3>Testes automatizados</h3>
 
