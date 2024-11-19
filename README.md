@@ -1,4 +1,4 @@
-<h2>Seja muito bem vindo(a) ao meu bloco de notas para desenvolvimento backend de softwares</h2>
+<h2>Seja muito bem vindo(a) ao meu bloco de notas para desenvolvimento backend</h2>
 
 <p>
 Sou Curitibano, casado, dois filhos, pós-graduado em Cloud Computing, graduado em Sistemas de Informação e técnico em Processamento de Dados.
@@ -12,8 +12,8 @@ Atuo como desenvolvedor backend com foco em Cloud, Micro serviços e APIs utiliz
 <h3>Infraestrutura</h3>
 
 - Hardware computador
-  - Arquitetura IBM-PC (Placa-mãe, Bios, CPU, BUS, RAM, FDD, HDD, CDROM, VIDEO, SOUND, MODEM)
-    
+  - Arquitetura IBM-PC (Placa-mãe, Bios, CPU, BUS, RAM, FDD, HDD, SSD, CDROM, ZIP DRIVE, VIDEO, SOUND, MODEM, NETWORK)
+
 - Sistema operacional
   - Monousuário (MS-DOS, Windows 3.11 for Workgroups, Windows 9x)
   - Multiusuário (Linux Debian, Ubuntu, Mint)
@@ -21,7 +21,7 @@ Atuo como desenvolvedor backend com foco em Cloud, Micro serviços e APIs utiliz
 - Rede computadores
   - Rede cabeada (Ethernet, Hub, Switch, Roteador)
   - Rede wireless (Wi-Fi e Bluetooth)
-  - Protocolos (UDP, TCP, IP, HTTP)
+  - Protocolos (UDP, TCP, IP, HTTP, HTTPS)
 
 - Servidores
   - FTP (VSFTPD)
@@ -30,11 +30,11 @@ Atuo como desenvolvedor backend com foco em Cloud, Micro serviços e APIs utiliz
 
 - Virtualização
   - Nativa ou Baremetal (VMware)
-  - Paravirtualização (VirtualBox, QEMU, Vagrant)
+  - Paravirtualização (VirtualBox, Vagrant)
 
 - Containers e Orquestração
   - Docker, Docker Compose
-  - Docker Swarm, Kubernetes
+  - Kubernetes
 
 - Cloud
   - Privada com OpenStack
@@ -49,12 +49,11 @@ Atuo como desenvolvedor backend com foco em Cloud, Micro serviços e APIs utiliz
 - Relacional
   - Formas normais, Modelagem de Dados, Diagrama Entidade Relacionamento
   - MySQL, PostgreSQL, Oracle
-  - SQL, PL/SQL, Triggers, Stored Procedures
+  - SQL, PL/SQL, Triggers, Stored Procedures, Views
 
 - Não-Relacional
   - Documento (MongoDB)
   - Chave-Valor (DynamoDB)
-  - Cache (Redis)
 
 <h3>Programação</h3>
 
@@ -73,11 +72,13 @@ Atuo como desenvolvedor backend com foco em Cloud, Micro serviços e APIs utiliz
   - Estruturas de dados (vetores, matrizes, filas, pilhas) 
   - Algoritmos (ordenação, busca, recursividade)
 
-- Persistência de dados
-  - Arquivo texto e binário
-  - Banco de dados
-    - Java
-      - ODBC, JPA, Hibernate, Spring Data JPA
+<h3>Persistência de dados</h3>
+
+- Arquivos
+  - Texto e Binário
+- Banco de dados relacional
+  - Java
+    - ODBC, JPA, Hibernate, Spring Data JPA
 
 <h3>Testes automatizados</h3>
 
@@ -132,9 +133,8 @@ Atuo como desenvolvedor backend com foco em Cloud, Micro serviços e APIs utiliz
 
 <h3>Integração de software</h3>
 
- - Mensageria
+- Mensageria
   - Apache Kafka
-  - RabbitMQ
 
 <h2>Outras referências</h2>
 <p>
