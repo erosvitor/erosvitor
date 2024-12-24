@@ -115,13 +115,6 @@ Atuo como desenvolvedor backend com foco em Cloud, Micro serviços e APIs utiliz
   - GraphQL
 
 - Micro serviços
-  - Spring Boot Actuator
-  - Spring Cloud Config
-  - Service Registry com Eureka
-  - RestTemplate
-  - OpenFeign
-  - API Gateway
-  - Circuit Breaker com Resilience4j
 
 <h3>Design de Software</h3>
 
