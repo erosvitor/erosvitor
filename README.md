@@ -1,10 +1,7 @@
-<h2>Seja muito bem vindo(a) ao meu bloco de notas para desenvolvimento backend</h2>
+<h2>Seja muito bem vindo(a) ao meu bloco de notas para desenvolvimento de software backend</h2>
 
 <p>
 Sou Curitibano, casado, dois filhos, pós-graduado em Cloud Computing, graduado em Sistemas de Informação e técnico em Processamento de Dados.
-</p>
-<p>
-Atuo como desenvolvedor backend com foco em Cloud, Micro serviços e APIs utilizando Java, Kotlin e Python.
 </p>
 
 <h2>Desenvolvimento backend</h2>
@@ -16,44 +13,64 @@ Atuo como desenvolvedor backend com foco em Cloud, Micro serviços e APIs utiliz
 
 - Sistema operacional
   - Monousuário (MS-DOS, Windows 3.11 for Workgroups, Windows 9x)
-  - Multiusuário (Linux Debian, Ubuntu, Mint)
+  - Multiusuário (Linux Debian, Ubuntu)
 
 - Rede computadores
   - Rede cabeada (Ethernet, Hub, Switch, Roteador)
-  - Rede wireless (Wi-Fi e Bluetooth)
+  - Rede wireless (Wi-Fi, Bluetooth)
   - Protocolos (UDP, TCP, IP, HTTP, HTTPS)
 
 - Servidores
   - FTP (VSFTPD)
-  - Web (Apache HTTPD e Nginx)
-  - Aplicação Java (Tomcat, Jetty, Netty, WildFly)
+  - Web (Apache HTTPD, Nginx)
+  - Aplicação Java (Tomcat, WildFly, Jetty, Netty)
 
 - Virtualização
   - Nativa ou Baremetal (VMware)
   - Paravirtualização (VirtualBox, Vagrant)
+    - Configurar VMs MS-DOS, Windows 3.11, Windows 9x, Linux Debian, Ubuntu
+    - Configuar acesso SSH nas VMs Linux
 
 - Containers e Orquestração
-  - Docker, Docker Compose
+  - Docker
+    - Instalar localmente
+    - Subir containers Apache HTTPD, Nginx, Tomcat, WildFly
+    - Monitorar containers com **docker stats**
+    - Acessar containers com **docker exec**
+  - Docker Compose
+    - Instalar localmente
+    - Configurar arquivos **docker-compose.yaml**
   - Kubernetes
+    - Instalar e configuar **kubectl**
+    - Monitorar PODs com **kubectl**
 
 - Cloud
   - Privada com OpenStack
   - Pública com AWS
 
-- Versionamento de código
-  - CVS, SVN, GIT
-  - TortoiseSVN, GitHub, GitLab, BitBucket    
+<h3>Versionamento de código</h3>
+
+- GIT
+  - git clone, git config, git status, git add, git commit, git push, git pull, git stash, git reset, git revert
+  - trunk, feature, gitflow branches
+- GitHub, GitLab, BitBucket
 
 <h3>Banco de dados</h3>
 
 - Relacional
-  - Formas normais, Modelagem de Dados, Diagrama Entidade Relacionamento
+  - Modelagem
+    - Formas normais, Tipos de relacionamentos, Chaves primárias e secundárias, Diagrama Entidade Relacionamento
+  - Recursos
+    - Triggers, Stored Procedures, Views
   - MySQL, PostgreSQL, Oracle
-  - SQL, PL/SQL, Triggers, Stored Procedures, Views
+    - Instalar nativamente
+    - Subir containers Docker MySQL, PostgreSQL, Oracle
 
 - Não-Relacional
-  - Documento (MongoDB)
-  - Chave-Valor (DynamoDB)
+  - Tipos de bancos não-relacional
+  - MongoDB
+    - Instalar nativamente
+    - Subir containers Docker MongoDB
 
 <h3>Programação</h3>
 
@@ -65,7 +82,9 @@ Atuo como desenvolvedor backend com foco em Cloud, Micro serviços e APIs utiliz
 - Paradigmas de programação
   - Estruturada
   - Orientada a Objetos
+    - Atributos, Métodos, Encapsulamento, Construtores, Sobrecarga de construtores e métodos, Herança, Polimorfismo
   - Funcional
+    - API Stream do Java 8
   - Reativa
 
 - Técnicas de programação
@@ -107,14 +126,17 @@ Atuo como desenvolvedor backend com foco em Cloud, Micro serviços e APIs utiliz
     - Servidor e Cliente TCP
     - Servidor e Cliente UDP
   - REST
-    - Modelo maturidade Richardson
-    - Content negotiation
+    - Verbos e Status HTTP
     - Versionamento
-    - HATEOAS
     - Documentação com OpenAPI
-  - GraphQL
+    - Content negotiation
+    - Modelo maturidade Richardson
+    - HATEOAS
 
 - Micro serviços
+  - Circuit Breaker
+  - API Gateway
+  - SAGA
 
 <h3>Design de Software</h3>
 
@@ -128,6 +150,7 @@ Atuo como desenvolvedor backend com foco em Cloud, Micro serviços e APIs utiliz
 
 - Mensageria
   - Apache Kafka
+    - Subir containers Docker Kafka
 
 <h2>Outras referências</h2>
 <p>
