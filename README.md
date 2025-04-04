@@ -10,13 +10,15 @@ Sou Curitibano, casado, dois filhos, pós-graduado em Cloud Computing, graduado 
 
 - Hardware computador
   - Arquitetura IBM-PC (Placa-mãe, Bios, CPU, BUS, RAM, FDD, HDD, SSD, CDROM, ZIP DRIVE, VIDEO, SOUND, MODEM, NETWORK)
+    - Especificar e montar um computador IBM-PC
 
 - Sistema operacional
-  - Monousuário (MS-DOS, Windows 3.11 for Workgroups, Windows 9x)
+  - Monousuário (MS-DOS, Windows 3.11, Windows 9x)
   - Multiusuário (Linux Debian, Ubuntu)
+    - Instalar, configurar, criar usuários, criar permissionamentos
 
 - Rede computadores
-  - Rede cabeada (Ethernet, Hub, Switch, Roteador)
+  - Rede cabeada (Ethernet, Hub, Switch, Roteador, Cabo par trançado)
   - Rede wireless (Wi-Fi, Bluetooth)
   - Protocolos (UDP, TCP, IP, HTTP, HTTPS)
 
@@ -30,11 +32,12 @@ Sou Curitibano, casado, dois filhos, pós-graduado em Cloud Computing, graduado 
   - Paravirtualização (VirtualBox, Vagrant)
     - Configurar VMs MS-DOS, Windows 3.11, Windows 9x, Linux Debian, Ubuntu
     - Configuar acesso SSH nas VMs Linux
+    - Criar scripts Vagrant
 
 - Containers e Orquestração
   - Docker
     - Instalar localmente
-    - Subir containers Apache HTTPD, Nginx, Tomcat, WildFly
+    - Subir containers FTP, Web, Tomcat, WildFly
     - Monitorar containers com **docker stats**
     - Acessar containers com **docker exec**
   - Docker Compose
@@ -48,13 +51,6 @@ Sou Curitibano, casado, dois filhos, pós-graduado em Cloud Computing, graduado 
   - Privada com OpenStack
   - Pública com AWS
 
-<h3>Versionamento de código</h3>
-
-- GIT
-  - git clone, git config, git status, git add, git commit, git push, git pull, git stash, git reset, git revert
-  - trunk, feature, gitflow branches
-- GitHub, GitLab, BitBucket
-
 <h3>Banco de dados</h3>
 
 - Relacional
@@ -67,7 +63,7 @@ Sou Curitibano, casado, dois filhos, pós-graduado em Cloud Computing, graduado 
     - Subir containers Docker MySQL, PostgreSQL, Oracle
 
 - Não-Relacional
-  - Tipos de bancos não-relacional
+  - Tipos de bancos não-relacionais
   - MongoDB
     - Instalar nativamente
     - Subir containers Docker MongoDB
@@ -82,7 +78,11 @@ Sou Curitibano, casado, dois filhos, pós-graduado em Cloud Computing, graduado 
 - Paradigmas de programação
   - Estruturada
   - Orientada a Objetos
-    - Atributos, Métodos, Encapsulamento, Construtores, Sobrecarga de construtores e métodos, Herança, Polimorfismo
+    - Conceitos e técnicas
+      - Atributos, Métodos, Encapsulamento, Construtores, Sobrecarga de construtores e métodos, Herança, Polimorfismo
+    - Padrões de projeto
+      - GoF (Singleton, Factory, Builder, Adapter)
+    - Princípios do SOLID
   - Funcional
     - API Stream do Java 8
   - Reativa
@@ -90,6 +90,17 @@ Sou Curitibano, casado, dois filhos, pós-graduado em Cloud Computing, graduado 
 - Técnicas de programação
   - Estruturas de dados (vetores, matrizes, filas, pilhas) 
   - Algoritmos (ordenação, busca, recursividade)
+
+- Qualidade do código
+  - Clean Code
+  - Code Review
+
+<h3>Versionamento de código</h3>
+
+- Git
+  - git clone, git config, git status, git add, git commit, git push, git pull, git stash, git reset, git revert
+  - trunk, feature, gitflow branches
+- GitHub, GitLab, BitBucket
 
 <h3>Persistência de dados</h3>
 
@@ -114,7 +125,23 @@ Sou Curitibano, casado, dois filhos, pós-graduado em Cloud Computing, graduado 
 - Testes end-to-end
   - Robot Framework, Selenium
 
-<h3>Arquitetura de Software</h3>
+<h3>Integração entre aplicações</h3>
+
+- Mensageria
+  - Apache Kafka
+    - Subir containers Docker Kafka
+
+<h3>Segurança</h3>
+
+- Autenticação, Autorização
+- Token JWT
+- Spring Security
+
+<h3>Observabilidade</h3>
+
+- Pilares da observabilidade
+
+<h3>Estilo arquitetural</h3>
 
 - Monolítica
   - Aplicações console
@@ -138,20 +165,6 @@ Sou Curitibano, casado, dois filhos, pós-graduado em Cloud Computing, graduado 
   - API Gateway
   - SAGA
 
-<h3>Design de Software</h3>
-
-- Padrões de projeto
-  - GoF (Singleton, Factory, Builder, Adapter)
-
-- Princípios de design
-  - SOLID, YAGNI, KISS, DRY
-
-<h3>Integração de software</h3>
-
-- Mensageria
-  - Apache Kafka
-    - Subir containers Docker Kafka
-
 <h2>Outras referências</h2>
 <p>
 Você pode obter mais informações sobre minha trajetória profissional no Linkedin. No meu Blog você encontrará anotações do meu dia a dia em diversos assuntos.
@@ -168,6 +181,5 @@ Você pode obter mais informações sobre minha trajetória profissional no Link
 <h2>Estatísticas</h2>
 <div align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erosvitor&show_icons=true&hide_border=false&layout=compact&langs_count=8&theme=default"/>
-	
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=erosvitor&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&theme=default" />
 </div>
