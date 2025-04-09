@@ -10,12 +10,10 @@ Sou Curitibano, casado, dois filhos, pós-graduado em Cloud Computing, graduado 
 
 - Hardware computador
   - Arquitetura IBM-PC (Placa-mãe, Bios, CPU, BUS, RAM, FDD, HDD, SSD, CDROM, ZIP DRIVE, VIDEO, SOUND, MODEM, NETWORK)
-    - Especificar e montar um computador IBM-PC
 
 - Sistema operacional
   - Monousuário (MS-DOS, Windows 3.11, Windows 9x)
   - Multiusuário (Linux Debian, Ubuntu)
-    - Instalar, configurar, criar usuários, criar permissionamentos
 
 - Rede computadores
   - Rede cabeada (Ethernet, Hub, Switch, Roteador, Cabo par trançado)
@@ -30,43 +28,24 @@ Sou Curitibano, casado, dois filhos, pós-graduado em Cloud Computing, graduado 
 - Virtualização
   - Nativa ou Baremetal (VMware)
   - Paravirtualização (VirtualBox, Vagrant)
-    - Configurar VMs MS-DOS, Windows 3.11, Windows 9x, Linux Debian, Ubuntu
-    - Configuar acesso SSH nas VMs Linux
-    - Criar scripts Vagrant
 
 - Containers e Orquestração
-  - Docker
-    - Instalar localmente
-    - Subir containers FTP, Web, Tomcat, WildFly
-    - Monitorar containers com **docker stats**
-    - Acessar containers com **docker exec**
-  - Docker Compose
-    - Instalar localmente
-    - Configurar arquivos **docker-compose.yaml**
-  - Kubernetes
-    - Instalar e configuar **kubectl**
-    - Monitorar PODs com **kubectl**
+  - Docker, Docker Compose, Kubernetes, kubectl
 
 - Cloud
   - Privada com OpenStack
-  - Pública com AWS
+  - Pública com AWS (EC2, S3, RDS, SQS, SNS, Lambdas, VPC, Cloud Watch)
 
 <h3>Banco de dados</h3>
 
 - Relacional
-  - Modelagem
-    - Formas normais, Tipos de relacionamentos, Chaves primárias e secundárias, Diagrama Entidade Relacionamento
-  - Recursos
-    - Triggers, Stored Procedures, Views
-  - MySQL, PostgreSQL, Oracle
-    - Instalar nativamente
-    - Subir containers Docker MySQL, PostgreSQL, Oracle
+  - Modelagem (Formas normais, Cardinalidade, Chaves primárias e secundárias, Diagrama Entidade Relacionamento)
+  - Recursos (Índices, Triggers, Stored Procedures, Views)
+  - Paradox, Firebird, MySQL, PostgreSQL, Oracle
 
 - Não-Relacional
-  - Tipos de bancos não-relacionais
-  - MongoDB
-    - Instalar nativamente
-    - Subir containers Docker MongoDB
+  - Tipos (Documento, Chave-Valor, Coluna, Grafo)
+  - MongoDB, DynamoDB
 
 <h3>Programação</h3>
 
@@ -76,70 +55,53 @@ Sou Curitibano, casado, dois filhos, pós-graduado em Cloud Computing, graduado 
   - Marcação (HTML, CSS, XML)
 
 - Paradigmas de programação
-  - Estruturada
-  - Orientada a Objetos
-    - Conceitos e técnicas
-      - Atributos, Métodos, Encapsulamento, Construtores, Sobrecarga de construtores e métodos, Herança, Polimorfismo
-    - Padrões de projeto
-      - GoF (Singleton, Factory, Builder, Adapter)
-    - Princípios do SOLID
-  - Funcional
-    - API Stream do Java 8
-  - Reativa
+  - Estruturada, Orientada a Objetos, Funcional, Reativa
 
+- Orientação a Objetos
+  - Conceitos e técnicas (Atributos, Métodos, Encapsulamento, Construtores, Sobrecarga, Herança, Polimorfismo)
+  - Padrões de projeto (Singleton, Factory, Builder, Adapter, Strategy)
+  - SOLID (Responsabilidade Única, Aberto/Fechado, Substituição de Liskov, Segregação de Interface, Inversão de Dependência)
+ 
 - Técnicas de programação
   - Estruturas de dados (vetores, matrizes, filas, pilhas) 
   - Algoritmos (ordenação, busca, recursividade)
 
 - Qualidade do código
-  - Clean Code
-  - Code Review
+  - Clean Code, Code Review, Sonarqube
 
 <h3>Versionamento de código</h3>
 
-- Git
-  - git clone, git config, git status, git add, git commit, git push, git pull, git stash, git reset, git revert
-  - trunk, feature, gitflow branches
-- GitHub, GitLab, BitBucket
+- CVS, SVN, GIT
+- TortoiseSVN, GitHub, GitLab, BitBucket   
 
 <h3>Persistência de dados</h3>
 
-- Arquivos
-  - Texto e Binário
+- Arquivos Texto e Binário
 - Banco de dados relacional
-  - Java
-    - ODBC, JPA, Hibernate, Spring Data JPA
+  - Java (JDBC, JPA, Hibernate, Spring Data JPA)
 
 <h3>Testes automatizados</h3>
 
-- Testes
-  - Princípio FIRST, Pirâmide de testes, TDD, BDD
-
-- Testes unitários
-  - Java
-    - JUnit 5, Mockito, Jacoco
-
+- Testes (Princípio FIRST, Pirâmide de testes, TDD, BDD)
+- Testes unitários 
+  - Java (JUnit 5, Mockito, Jacoco)
 - Testes integrados
-  - WireMock, Testcontainers
-
+  - Java (WireMock, Testcontainers)
 - Testes end-to-end
   - Robot Framework, Selenium
 
 <h3>Integração entre aplicações</h3>
 
-- Mensageria
-  - Apache Kafka
-    - Subir containers Docker Kafka
+- Mensageria (Apache Kafka, AWS SQS)
 
 <h3>Segurança</h3>
 
-- Autenticação, Autorização
-- Token JWT
-- Spring Security
+- Autenticação, Autorização, Token JWT, Spring Security
 
 <h3>Observabilidade</h3>
 
-- Pilares da observabilidade
+- Pilares da observabilidade (logs, métricas, traces)
+- Splunk, New Relic, Grafana, Prometheus
 
 <h3>Estilo arquitetural</h3>
 
@@ -158,12 +120,9 @@ Sou Curitibano, casado, dois filhos, pós-graduado em Cloud Computing, graduado 
     - Documentação com OpenAPI
     - Content negotiation
     - Modelo maturidade Richardson
-    - HATEOAS
 
 - Micro serviços
-  - Circuit Breaker
-  - API Gateway
-  - SAGA
+  - Circuit Breaker, API Gateway, SAGA
 
 <h2>Outras referências</h2>
 <p>
