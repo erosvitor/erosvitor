@@ -1,7 +1,7 @@
 <h2>Seja muito bem vindo(a) ao meu bloco de notas para desenvolvimento de software backend</h2>
 
 <p>
-Sou Curitibano, casado, dois filhos, pós-graduado em Cloud Computing, graduado em Sistemas de Informação e técnico em Processamento de Dados.
+Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e eletrônica. Sou pós-graduado em Cloud Computing, graduado em Sistemas de Informação e técnico em Processamento de Dados.
 </p>
 
 <h2>Desenvolvimento backend</h2>
