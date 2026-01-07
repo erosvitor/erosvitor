@@ -9,11 +9,11 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 <h3>Infraestrutura</h3>
 
 - Hardware computador
-  - Arquitetura IBM-PC (Placa-mãe, Bios, CPU, BUS, RAM, FDD, HDD, SSD, CDROM, ZIP DRIVE, VIDEO, SOUND, MODEM, NETWORK)
+  - Arquitetura IBM-PC (Placa-mãe, Bios, CPU, BUS, RAM, FDD, HDD, SSD, CDROM, ZIP DRIVE, VIDEO, SOM, MODEM, NETWORK)
 
 - Sistema operacional
   - Monousuário (MS-DOS, Windows 3.11, Windows 9x)
-  - Multiusuário (Linux Debian, Ubuntu)
+  - Multiusuário (Linux Debian, Linux Ubuntu)
 
 - Rede computadores
   - Rede cabeada (Ethernet, Hub, Switch, Roteador, Cabo par trançado)
@@ -32,15 +32,12 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 - Containers e Orquestração
   - Docker, Docker Compose, Kubernetes, kubectl
 
-- Cloud
-  - Privada com OpenStack
-  - Pública com AWS (EC2, S3, RDS, SQS, SNS, Lambdas, VPC, Cloud Watch)
-
 <h3>Banco de dados</h3>
 
 - Relacional
-  - Modelagem (Formas normais, Cardinalidade, Chaves primárias e secundárias, Diagrama Entidade Relacionamento)
-  - Recursos (Índices, Triggers, Stored Procedures, Views)
+  - Normalização de dados (Formas normais, Cardinalidade, Chaves primárias, Chaves estrangeiras)
+  - Modelagem de dados (Diagrama Entidade Relacionamento, Modelo Relacional Normalizado)
+  - Recursos (Índices, Funções de agregação, Triggers, Stored Procedures, Views)
   - Paradox, Firebird, MySQL, PostgreSQL, Oracle
 
 - Não-Relacional
@@ -103,7 +100,7 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 - Pilares da observabilidade (logs, métricas, traces)
 - Splunk, New Relic, Grafana, Prometheus
 
-<h3>Estilo arquitetural</h3>
+<h3>Arquiteturas de software</h3>
 
 - Monolítica
   - Aplicações console
