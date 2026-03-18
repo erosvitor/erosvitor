@@ -12,25 +12,24 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
   - Arquitetura IBM-PC (Placa-mãe, Bios, CPU, BUS, RAM, FDD, HDD, SSD, CDROM, ZIP DRIVE, VIDEO, SOM, MODEM, NETWORK)
 
 - Sistema operacional
-  - Monousuário (MS-DOS, Windows 3.11, Windows 9x)
+  - Monousuário (MS-DOS 6.22, Windows 3.11, Windows 9x)
   - Multiusuário (Linux Debian, Linux Ubuntu)
 
 - Rede computadores
   - Rede cabeada (Ethernet, Hub, Switch, Roteador, Cabo par trançado)
   - Rede wireless (Wi-Fi, Bluetooth)
-  - Protocolos (UDP, TCP, IP, HTTP, HTTPS)
+  - Protocolos (UDP, TCP, IP, HTTP, HTTPS, FTP)
 
 - Servidores
   - FTP (VSFTPD)
   - Web (Apache HTTPD, Nginx)
-  - Aplicação Java (Tomcat, WildFly, Jetty, Netty)
+  - Aplicação Java/Kotlin (Tomcat, WildFly, Jetty, Netty)
 
 - Virtualização
-  - Nativa ou Baremetal (VMware)
   - Paravirtualização (VirtualBox, Vagrant)
 
 - Containers e Orquestração
-  - Docker, Docker Compose, Kubernetes, kubectl
+  - Docker, Docker Compose, Kubernetes
 
 <h3>Banco de dados</h3>
 
@@ -42,7 +41,12 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 
 - Não-Relacional
   - Tipos (Documento, Chave-Valor, Coluna, Grafo)
-  - MongoDB, DynamoDB
+  - MongoDB, DynamoDB, Redis
+
+<h3>Versionamento de código</h3>
+
+- CVS, SVN, GIT
+- TortoiseSVN, GitHub, GitLab, BitBucket
 
 <h3>Programação</h3>
 
@@ -50,6 +54,10 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
   - Compiladas (C, C++)
   - Interpretadas (Java, Kotlin, Python)
   - Marcação (HTML, CSS, XML)
+
+- Técnicas de programação
+  - Estruturas de dados (vetores, matrizes, filas, pilhas) 
+  - Algoritmos (ordenação, busca, recursividade)
 
 - Paradigmas de programação
   - Estruturada, Orientada a Objetos, Funcional, Reativa
@@ -59,17 +67,8 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
   - Padrões de projeto (Singleton, Factory, Builder, Adapter, Strategy)
   - SOLID (Responsabilidade Única, Aberto/Fechado, Substituição de Liskov, Segregação de Interface, Inversão de Dependência)
  
-- Técnicas de programação
-  - Estruturas de dados (vetores, matrizes, filas, pilhas) 
-  - Algoritmos (ordenação, busca, recursividade)
-
 - Qualidade do código
   - Clean Code, Code Review, Sonarqube
-
-<h3>Versionamento de código</h3>
-
-- CVS, SVN, GIT
-- TortoiseSVN, GitHub, GitLab, BitBucket   
 
 <h3>Persistência de dados</h3>
 
