@@ -75,24 +75,26 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 - Arquivos Texto e Binário
 - Banco de dados relacional
   - Java (JDBC, JPA, Hibernate, Spring Data JPA)
+  - Kotlin (Ktorm, Exposed, Spring Data JPA)
 
 <h3>Testes automatizados</h3>
 
 - Testes (Princípio FIRST, Pirâmide de testes, TDD, BDD)
 - Testes unitários 
-  - Java (JUnit 5, Mockito, Jacoco)
+  - Java (JUnit 5, Mockito, JaCoCo)
+  - Kotlin (JUnit 5, MockK, JaCoCo)
 - Testes integrados
-  - Java (WireMock, Testcontainers)
+  - Java/Kotlin (WireMock, Testcontainers)
 - Testes end-to-end
   - Robot Framework, Selenium
-
-<h3>Integração entre aplicações</h3>
-
-- Mensageria (Apache Kafka, AWS SQS)
 
 <h3>Segurança</h3>
 
 - Autenticação, Autorização, Token JWT, Spring Security
+
+<h3>Integração entre aplicações</h3>
+
+- Mensageria (Apache Kafka, AWS SQS)
 
 <h3>Observabilidade</h3>
 
@@ -107,15 +109,15 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
   - Aplicações mobile
 
 - Cliente/Servidor
-  - Cliente/Servidor
-    - Servidor e Cliente TCP
-    - Servidor e Cliente UDP
-  - REST
-    - Verbos e Status HTTP
-    - Versionamento
-    - Documentação com OpenAPI
-    - Content negotiation
-    - Modelo maturidade Richardson
+  - Servidor e Cliente TCP
+  - Servidor e Cliente UDP
+
+- RESTfull
+  - Verbos e Status HTTP
+  - Versionamento
+  - Documentação com OpenAPI
+  - Content negotiation
+  - Modelo maturidade Richardson
 
 - Micro serviços
   - Circuit Breaker, API Gateway, SAGA
