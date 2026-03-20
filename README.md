@@ -6,7 +6,7 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 
 <h2>Desenvolvimento backend</h2>
 
-<h3>Infraestrutura</h3>
+<h3>01 Infraestrutura</h3>
 
 - Hardware computador
   - Arquitetura IBM-PC (Placa-mãe, Bios, CPU, BUS, RAM, FDD, HDD, SSD, CDROM, ZIP DRIVE, VIDEO, SOM, MODEM, NETWORK)
@@ -31,7 +31,10 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 - Containers e Orquestração
   - Docker, Docker Compose, Kubernetes
 
-<h3>Banco de dados</h3>
+- Cloud
+  - AWS
+
+<h3>02 Banco de dados</h3>
 
 - Relacional
   - Normalização de dados (Formas normais, Cardinalidade, Chaves primárias, Chaves estrangeiras)
@@ -43,12 +46,12 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
   - Tipos (Documento, Chave-Valor, Coluna, Grafo)
   - MongoDB, DynamoDB, Redis
 
-<h3>Versionamento de código</h3>
+<h3>03 Versionamento de código</h3>
 
 - CVS, SVN, GIT
 - TortoiseSVN, GitHub, GitLab, BitBucket
 
-<h3>Programação</h3>
+<h3>04 Programação</h3>
 
 - Linguagens de programação
   - Compiladas (C, C++)
@@ -70,14 +73,14 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 - Qualidade do código
   - Clean Code, Code Review, Sonarqube
 
-<h3>Persistência de dados</h3>
+<h3>05 Persistência de dados</h3>
 
 - Arquivos Texto e Binário
 - Banco de dados relacional
   - Java (JDBC, JPA, Hibernate, Spring Data JPA)
   - Kotlin (Ktorm, Exposed, Spring Data JPA)
 
-<h3>Testes automatizados</h3>
+<h3>06 Testes automatizados</h3>
 
 - Testes (Princípio FIRST, Pirâmide de testes, TDD, BDD)
 - Testes unitários 
@@ -88,15 +91,20 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 - Testes end-to-end
   - Robot Framework, Selenium
 
-<h3>Segurança</h3>
+<h3>07 Segurança</h3>
 
 - Autenticação, Autorização, Token JWT, Spring Security
 
-<h3>Integração entre aplicações</h3>
+<h3>08 Integração entre aplicações</h3>
 
 - Mensageria (Apache Kafka, AWS SQS)
 
-<h3>Observabilidade</h3>
+<h3>09 CI/CD</h3>
+
+- Jenkins
+- Github Actions
+
+<h3>10 Observabilidade</h3>
 
 - Pilares da observabilidade (logs, métricas, traces)
 - Splunk, New Relic, Grafana, Prometheus
