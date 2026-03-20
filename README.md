@@ -28,8 +28,11 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 - Virtualização
   - Paravirtualização (VirtualBox, Vagrant)
 
-- Containers e Orquestração
-  - Docker, Docker Compose, Kubernetes
+- Containers
+  - Docker, Docker Compose
+
+- Orquestração de containers
+  - Kubernetes
 
 - Cloud
   - AWS
@@ -48,7 +51,7 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 
 <h3>03 Versionamento de código</h3>
 
-- CVS, SVN, GIT
+- CVS, SVN, GIT, GitFlow
 - TortoiseSVN, GitHub, GitLab, BitBucket
 
 <h3>04 Programação</h3>
@@ -84,12 +87,13 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 
 - Testes (Princípio FIRST, Pirâmide de testes, TDD, BDD)
 - Testes unitários 
-  - Java (JUnit 5, Mockito, JaCoCo)
-  - Kotlin (JUnit 5, MockK, JaCoCo)
+  - Java (JUnit 5, Mockito)
+  - Kotlin (JUnit 5, MockK)
 - Testes integrados
   - Java/Kotlin (WireMock, Testcontainers)
 - Testes end-to-end
   - Robot Framework, Selenium
+- Code coverage (EclEmma, JaCoCo)
 
 <h3>07 Segurança</h3>
 
@@ -101,33 +105,36 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 
 <h3>09 CI/CD</h3>
 
-- Jenkins
-- Github Actions
+- Jenkins, Github Actions
+- Nexus, JFrog
 
 <h3>10 Observabilidade</h3>
 
 - Pilares da observabilidade (logs, métricas, traces)
-- Splunk, New Relic, Grafana, Prometheus
+- Splunk, New Relic, Prometheus, Grafana
 
-<h3>Arquiteturas de software</h3>
+<h3>11 Metodologias Ágeis</h3>
+
+- Scrum, Kanban
+
+<h3>12 Arquiteturas de software</h3>
 
 - Monolítica
-  - Aplicações console
-  - Aplicações desktop
-  - Aplicações mobile
+  - Aplicações console, desktop, mobile
+  - Qt Creator, Java Swing, Delphi
 
 - Cliente/Servidor
-  - Servidor e Cliente TCP
-  - Servidor e Cliente UDP
+  - UDP, TCP
 
-- RESTfull
-  - Verbos e Status HTTP
-  - Versionamento
-  - Documentação com OpenAPI
-  - Content negotiation
-  - Modelo maturidade Richardson
+- MVC
+  - Spring Framework
 
-- Micro serviços
+- REST
+  - Verbos e Status HTTP, Versionamento, Documentação, Content negotiation
+  - RESTful (Modelo maturidade Richardson)
+  - JAX-RS, Jersey, String Boot
+
+- Microsserviços
   - Circuit Breaker, API Gateway, SAGA
 
 <h2>Outras referências</h2>
