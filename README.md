@@ -20,7 +20,7 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
   - Rede wireless (Wi-Fi, Bluetooth)
   - Protocolos (UDP, TCP, IP, HTTP, HTTPS, FTP)
 
-- Servidores
+- [Servidores](https://github.com/erosvitor/interview-back-dev/blob/main/questions/01.04-infraestrutura-servidores.md)
   - FTP (VSFTPD)
   - Web (Apache HTTPD, Nginx)
   - Aplicação Java/Kotlin (Tomcat, WildFly, Jetty, Netty)
@@ -28,10 +28,10 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 - Virtualização
   - Paravirtualização (VirtualBox, Vagrant)
 
-- Containers
+- [Containers](https://github.com/erosvitor/interview-back-dev/blob/main/questions/01.06-infraestrutura-containers.md)
   - Docker, Docker Compose
 
-- Orquestração de containers
+- [Orquestração de containers](https://github.com/erosvitor/interview-back-dev/blob/main/questions/01.07-infraestrutura-orquestracao.md)
   - Kubernetes
 
 - Cloud
