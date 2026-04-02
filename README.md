@@ -51,13 +51,13 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 
 <h3>03 Versionamento de código</h3>
 
-- Versionadores
+- [Versionadores](https://github.com/erosvitor/interview-back-dev/blob/main/questions/03.00-versionamento.md)
   - CVS, SVN, GIT, GitFlow
   - TortoiseSVN, GitHub, GitLab, BitBucket
 
 <h3>04 Programação</h3>
 
-- Linguagens de programação
+- [Linguagens de programação](https://github.com/erosvitor/interview-back-dev/blob/main/questions/04.01-programacao-linguagens.md)
   - Compiladas (C, C++)
   - Interpretadas (Java, Kotlin, Python)
   - Marcação (HTML, CSS, XML)
@@ -69,12 +69,12 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 - Paradigmas de programação
   - Estruturada, Orientada a Objetos, Funcional, Reativa
 
-- Orientação a Objetos
+- [Orientação a Objetos](https://github.com/erosvitor/interview-back-dev/blob/main/questions/04.04-programacao-orientacaoobjetos.md)
   - Conceitos e técnicas (Atributos, Métodos, Encapsulamento, Construtores, Sobrecarga, Herança, Polimorfismo)
   - Padrões de projeto (Singleton, Factory, Builder, Adapter, Strategy)
   - SOLID (Responsabilidade Única, Aberto/Fechado, Substituição de Liskov, Segregação de Interface, Inversão de Dependência)
  
-- Qualidade do código
+- [Qualidade do código](https://github.com/erosvitor/interview-back-dev/blob/main/questions/04.05-programacao-qualidadecodigo.md)
   - Clean Code, Code Review, Sonarqube
 
 <h3>05 Persistência de dados</h3>
