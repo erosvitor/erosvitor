@@ -87,7 +87,7 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 
 <h3>06 Testes automatizados</h3>
 
-- Testes
+- [Testes](https://github.com/erosvitor/interview-back-dev/blob/main/questions/06.00-testesautomatizados.md)
   - Princípio FIRST, Pirâmide de testes, TDD, BDD
   - Testes unitários (Unit 5, Mockito, MockK)
   - Testes integrados (WireMock, Testcontainers)
