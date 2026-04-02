@@ -79,10 +79,11 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 
 <h3>05 Persistência de dados</h3>
 
-- Arquivos Texto e Binário
-- Banco de dados relacional
-  - Java (JDBC, JPA, Hibernate, Spring Data JPA)
-  - Kotlin (Ktorm, Exposed, Spring Data JPA)
+- [Persistência](https://github.com/erosvitor/interview-back-dev/blob/main/questions/05.00-persistenciadedados.md)
+  - Arquivos Texto e Binário
+  - Banco de dados relacional
+    - Java (JDBC, JPA, Hibernate, Spring Data JPA)
+    - Kotlin (Ktorm, Exposed, Spring Data JPA)
 
 <h3>06 Testes automatizados</h3>
 
