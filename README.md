@@ -96,7 +96,11 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 
 <h3>07 Segurança</h3>
 
-- Autenticação, Autorização, Token JWT, Spring Security
+- Código seguro
+  - Validação, Exceções, Logs, Cofre de segredo, Autenticação, Autorização, Token JWT, Spring Security
+  - Testes estáticos de segurança (SAST), Análise de composição de software (SCA)
+- Sistema seguro
+  - Atualizações, Backups, Firewalls, VPNs, Monitoramento 
 
 <h3>08 Integração entre aplicações</h3>
 
