@@ -87,15 +87,12 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 
 <h3>06 Testes automatizados</h3>
 
-- Testes (Princípio FIRST, Pirâmide de testes, TDD, BDD)
-- Testes unitários 
-  - Java (JUnit 5, Mockito)
-  - Kotlin (JUnit 5, MockK)
-- Testes integrados
-  - Java/Kotlin (WireMock, Testcontainers)
-- Testes end-to-end
-  - Robot Framework, Selenium
-- Code coverage (EclEmma, JaCoCo)
+- Testes
+  - Princípio FIRST, Pirâmide de testes, TDD, BDD
+  - Testes unitários (Unit 5, Mockito, MockK)
+  - Testes integrados (WireMock, Testcontainers)
+  - Testes end-to-end (Robot Framework, Selenium)
+  - Code coverage (EclEmma, JaCoCo)
 
 <h3>07 Segurança</h3>
 
