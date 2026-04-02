@@ -51,8 +51,9 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 
 <h3>03 Versionamento de código</h3>
 
-- CVS, SVN, GIT, GitFlow
-- TortoiseSVN, GitHub, GitLab, BitBucket
+- Versionadores
+  - CVS, SVN, GIT, GitFlow
+  - TortoiseSVN, GitHub, GitLab, BitBucket
 
 <h3>04 Programação</h3>
 
