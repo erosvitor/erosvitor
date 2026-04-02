@@ -34,18 +34,18 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 - [Orquestração de containers](https://github.com/erosvitor/interview-back-dev/blob/main/questions/01.07-infraestrutura-orquestracao.md)
   - Kubernetes
 
-- Cloud
+- [Cloud Computing](https://github.com/erosvitor/interview-back-dev/blob/main/questions/01.08-infraestrutura-cloud.md)
   - AWS
 
 <h3>02 Banco de dados</h3>
 
-- Relacional
+- [Relacional](https://github.com/erosvitor/interview-back-dev/blob/main/questions/02.01-bancodedados-relacional.md)
   - Normalização de dados (Formas normais, Cardinalidade, Chaves primárias, Chaves estrangeiras)
   - Modelagem de dados (Diagrama Entidade Relacionamento, Modelo Relacional Normalizado)
   - Recursos (Índices, Funções de agregação, Triggers, Stored Procedures, Views)
   - Paradox, Firebird, MySQL, PostgreSQL, Oracle
 
-- Não-Relacional
+- [Não-Relacional](https://github.com/erosvitor/interview-back-dev/blob/main/questions/02.02-bancodedados-nosql.md)
   - Tipos (Documento, Chave-Valor, Coluna, Grafo)
   - MongoDB, DynamoDB, Redis
 
