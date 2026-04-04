@@ -120,7 +120,7 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 
 <h3>10 Metodologias</h3>
 
-- Metodologias ágeis
+- [Metodologias ágeis](https://github.com/erosvitor/interview-back-dev/blob/main/questions/10.01-metodologia-ageis.md)
   - Scrum, Kanban
 
 <h3>11 Arquiteturas</h3>
