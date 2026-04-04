@@ -49,27 +49,24 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
   - Tipos (Documento, Chave-Valor, Coluna, Grafo)
   - MongoDB, DynamoDB, Redis
 
-<h3>03 Versionamento de código</h3>
+<h3>03 Versionamento</h3>
 
-- [Versionadores](https://github.com/erosvitor/interview-back-dev/blob/main/questions/03.00-versionamento.md)
+- [Versionamento de código](https://github.com/erosvitor/interview-back-dev/blob/main/questions/03.00-versionamento.md)
   - CVS, SVN, GIT, GitFlow
   - TortoiseSVN, GitHub, GitLab, BitBucket
 
 <h3>04 Programação</h3>
 
-- [Linguagens de programação](https://github.com/erosvitor/interview-back-dev/blob/main/questions/04.01-programacao-linguagens.md)
+- [Linguagens](https://github.com/erosvitor/interview-back-dev/blob/main/questions/04.01-programacao-linguagens.md)
   - Compiladas (C, C++)
   - Interpretadas (Java, Kotlin, Python)
   - Marcação (HTML, CSS, XML)
 
-- Técnicas de programação
+- Técnicas
   - Estruturas de dados (vetores, matrizes, filas, pilhas) 
   - Algoritmos (ordenação, busca, recursividade)
 
-- Paradigmas de programação
-  - Estruturada, Orientada a Objetos, Funcional, Reativa
-
-- [Orientação a Objetos](https://github.com/erosvitor/interview-back-dev/blob/main/questions/04.04-programacao-orientacaoobjetos.md)
+- [Orientação a objetos](https://github.com/erosvitor/interview-back-dev/blob/main/questions/04.04-programacao-orientacaoobjetos.md)
   - Conceitos e técnicas (Atributos, Métodos, Encapsulamento, Construtores, Sobrecarga, Herança, Polimorfismo)
   - Padrões de projeto (Singleton, Factory, Builder, Adapter, Strategy)
   - SOLID (Responsabilidade Única, Aberto/Fechado, Substituição de Liskov, Segregação de Interface, Inversão de Dependência)
@@ -77,17 +74,17 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 - [Qualidade do código](https://github.com/erosvitor/interview-back-dev/blob/main/questions/04.05-programacao-qualidadecodigo.md)
   - Clean Code, Code Review, Sonarqube
 
-<h3>05 Persistência de dados</h3>
+<h3>05 Persistência</h3>
 
-- [Persistência](https://github.com/erosvitor/interview-back-dev/blob/main/questions/05.00-persistenciadedados.md)
+- [Persistência de dados](https://github.com/erosvitor/interview-back-dev/blob/main/questions/05.00-persistenciadedados.md)
   - Arquivos Texto e Binário
   - Banco de dados relacional
     - Java (JDBC, JPA, Hibernate, Spring Data JPA)
     - Kotlin (Ktorm, Exposed, Spring Data JPA)
 
-<h3>06 Testes automatizados</h3>
+<h3>06 Testes</h3>
 
-- [Testes](https://github.com/erosvitor/interview-back-dev/blob/main/questions/06.00-testesautomatizados.md)
+- [Testes automatizados](https://github.com/erosvitor/interview-back-dev/blob/main/questions/06.00-testesautomatizados.md)
   - Princípio FIRST, Pirâmide de testes, TDD, BDD
   - Testes unitários (Unit 5, Mockito, MockK)
   - Testes integrados (WireMock, Testcontainers)
@@ -102,28 +99,31 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 - [Sistema seguro](https://github.com/erosvitor/interview-back-dev/blob/main/questions/07.02-seguranca-sistema.md)
   - Atualizações, Backups, Firewalls, VPNs, Monitoramento 
 
-<h3>08 Integração entre aplicações</h3>
+<h3>08 Integração</h3>
 
 - [APIs](https://github.com/erosvitor/interview-back-dev/blob/main/questions/08.01-integracao-apis.md)
-  - API SOAP, API RESTful
+  - API REST
+    - Verbos e Status HTTP, Versionamento, Documentação, Content negotiation
+    - RESTful (Modelo maturidade Richardson)
+    - JAX-RS, Jersey, String Boot
 - [Mensageria](https://github.com/erosvitor/interview-back-dev/blob/main/questions/08.02-integracao-mensageria.md)
   - Apache Kafka, AWS SQS
 
-<h3>09 CI/CD</h3>
+<h3>09 DEVOPS</h3>
 
-- Jenkins, Github Actions
-- Nexus, JFrog
+- CI/CD
+  - Jenkins, Github Actions
+  - Nexus, JFrog
+- Observabilidade
+  - Pilares da observabilidade (logs, métricas, traces)
+  - Splunk, New Relic, Prometheus, Grafana
 
-<h3>10 Observabilidade</h3>
+<h3>10 Metodologias</h3>
 
-- Pilares da observabilidade (logs, métricas, traces)
-- Splunk, New Relic, Prometheus, Grafana
+- Metodologias ágeis
+  - Scrum, Kanban
 
-<h3>11 Metodologias Ágeis</h3>
-
-- Scrum, Kanban
-
-<h3>12 Arquiteturas de software</h3>
+<h3>11 Arquiteturas</h3>
 
 - Monolítica
   - Aplicações console, desktop, mobile
@@ -134,11 +134,6 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 
 - MVC
   - Spring Framework
-
-- REST
-  - Verbos e Status HTTP, Versionamento, Documentação, Content negotiation
-  - RESTful (Modelo maturidade Richardson)
-  - JAX-RS, Jersey, String Boot
 
 - Microsserviços
   - Circuit Breaker, API Gateway, SAGA
