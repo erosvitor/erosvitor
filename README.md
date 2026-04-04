@@ -111,10 +111,10 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 
 <h3>09 DEVOPS</h3>
 
-- CI/CD
+- [CI/CD](https://github.com/erosvitor/interview-back-dev/blob/main/questions/09.01-devops-cicd.md)
   - Jenkins, Github Actions
   - Nexus, JFrog
-- Observabilidade
+- [Observabilidade](https://github.com/erosvitor/interview-back-dev/blob/main/questions/09.02-devops-observabilidade.md)
   - Pilares da observabilidade (logs, métricas, traces)
   - Splunk, New Relic, Prometheus, Grafana
 
