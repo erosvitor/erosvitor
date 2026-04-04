@@ -96,15 +96,18 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 
 <h3>07 Segurança</h3>
 
-- Código seguro
+- [Código seguro](https://github.com/erosvitor/interview-back-dev/blob/main/questions/07.01-seguranca-codigo.md)
   - Validação, Exceções, Logs, Cofre de segredo, Autenticação, Autorização, Token JWT, Spring Security
   - Testes estáticos de segurança (SAST), Análise de composição de software (SCA)
-- Sistema seguro
+- [Sistema seguro](https://github.com/erosvitor/interview-back-dev/blob/main/questions/07.02-seguranca-sistema.md)
   - Atualizações, Backups, Firewalls, VPNs, Monitoramento 
 
 <h3>08 Integração entre aplicações</h3>
 
-- Mensageria (Apache Kafka, AWS SQS)
+- [APIs](https://github.com/erosvitor/interview-back-dev/blob/main/questions/08.01-integracao-apis.md)
+  - API SOAP, API RESTful
+- [Mensageria](https://github.com/erosvitor/interview-back-dev/blob/main/questions/08.02-integracao-mensageria.md)
+  - Apache Kafka, AWS SQS
 
 <h3>09 CI/CD</h3>
 
