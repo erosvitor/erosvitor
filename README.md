@@ -14,6 +14,7 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 - Sistema operacional
   - Monousuário (MS-DOS 6.22, Windows 3.11, Windows 9x)
   - Multiusuário (Linux Debian, Linux Ubuntu)
+  - Instalação em máquinas físicas e virtuais, containers e AWS EC2.
 
 - Rede computadores
   - Rede cabeada (Ethernet, Hub, Switch, Roteador, Cabo par trançado)
@@ -35,7 +36,7 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
   - Kubernetes
 
 - [Cloud Computing](https://github.com/erosvitor/interview-back-dev/blob/main/questions/01.08-infraestrutura-cloud.md)
-  - AWS
+  - AWS EC2 (AMI, Volume EBS, Snapshot, Elastic IP)
 
 <h3>02 Banco de dados</h3>
 
