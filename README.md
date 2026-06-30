@@ -141,15 +141,12 @@ Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e
 
 <h2>Outras referências</h2>
 <p>
-Você pode obter mais informações sobre minha trajetória profissional no Linkedin. No meu Blog você encontrará anotações do meu dia a dia em diversos assuntos.
+Você pode obter mais informações sobre minha trajetória profissional no Linkedin.
 </p>
 <p>
   <a href="https://www.linkedin.com/in/erosvitor/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://erosvitor.blogspot.com/" target="_blank">
-    <img alt="Blogger" src="https://img.shields.io/badge/blogger-%23FF5722.svg?&style=for-the-badge&logo=blogger&logoColor=white" />
-  </a>  
 </p>
 
 <h2>Estatísticas</h2>
