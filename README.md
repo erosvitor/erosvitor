@@ -1,9 +1,3 @@
-<h2>Seja muito bem vindo(a) ao meu bloco de notas para desenvolvimento de software backend</h2>
-
-<p>
-Sou curitibano, casado, dois filhos, apaixonado por programação, matemática e eletrônica.
-</p>
-
 <h2>Desenvolvimento backend</h2>
 
 <h3>01 Infraestrutura</h3>
